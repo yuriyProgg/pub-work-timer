@@ -10,7 +10,7 @@ With git:
 ```
 git clone https://github.com/yuriyProgg/pub-work-timer.git WorkTimer
 ```
-Or download the zip archive and unzip it
+Or download the archive and unzip it
 
 ### Launching the application
 Go to the directory with the application and run the `work-timer`
