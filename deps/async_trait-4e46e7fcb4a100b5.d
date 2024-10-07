@@ -1,0 +1,12 @@
+/home/yuri/Рабочий стол/rust/work-timer/target/release/deps/libasync_trait-4e46e7fcb4a100b5.so: /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.83/src/lib.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.83/src/args.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.83/src/bound.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.83/src/expand.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.83/src/lifetime.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.83/src/parse.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.83/src/receiver.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.83/src/verbatim.rs
+
+/home/yuri/Рабочий стол/rust/work-timer/target/release/deps/async_trait-4e46e7fcb4a100b5.d: /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.83/src/lib.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.83/src/args.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.83/src/bound.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.83/src/expand.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.83/src/lifetime.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.83/src/parse.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.83/src/receiver.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.83/src/verbatim.rs
+
+/home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.83/src/lib.rs:
+/home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.83/src/args.rs:
+/home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.83/src/bound.rs:
+/home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.83/src/expand.rs:
+/home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.83/src/lifetime.rs:
+/home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.83/src/parse.rs:
+/home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.83/src/receiver.rs:
+/home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.83/src/verbatim.rs:

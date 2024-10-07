@@ -1,0 +1,11 @@
+/home/yuri/Рабочий стол/rust/work-timer/target/release/deps/libfutures_lite-535b0a6cb5982c4e.rmeta: /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/lib.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/future.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/prelude.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/stream.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/io.rs
+
+/home/yuri/Рабочий стол/rust/work-timer/target/release/deps/libfutures_lite-535b0a6cb5982c4e.rlib: /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/lib.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/future.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/prelude.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/stream.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/io.rs
+
+/home/yuri/Рабочий стол/rust/work-timer/target/release/deps/futures_lite-535b0a6cb5982c4e.d: /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/lib.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/future.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/prelude.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/stream.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/io.rs
+
+/home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/lib.rs:
+/home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/future.rs:
+/home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/prelude.rs:
+/home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/stream.rs:
+/home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/futures-lite-2.3.0/src/io.rs:
