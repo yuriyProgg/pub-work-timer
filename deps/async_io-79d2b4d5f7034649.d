@@ -1,0 +1,12 @@
+/home/yuri/Рабочий стол/rust/work-timer/target/release/deps/libasync_io-79d2b4d5f7034649.rmeta: /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-io-2.3.4/src/lib.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-io-2.3.4/src/driver.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-io-2.3.4/src/reactor.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-io-2.3.4/src/os.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-io-2.3.4/src/os/unix.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-io-2.3.4/src/reactor/unix.rs
+
+/home/yuri/Рабочий стол/rust/work-timer/target/release/deps/libasync_io-79d2b4d5f7034649.rlib: /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-io-2.3.4/src/lib.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-io-2.3.4/src/driver.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-io-2.3.4/src/reactor.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-io-2.3.4/src/os.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-io-2.3.4/src/os/unix.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-io-2.3.4/src/reactor/unix.rs
+
+/home/yuri/Рабочий стол/rust/work-timer/target/release/deps/async_io-79d2b4d5f7034649.d: /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-io-2.3.4/src/lib.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-io-2.3.4/src/driver.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-io-2.3.4/src/reactor.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-io-2.3.4/src/os.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-io-2.3.4/src/os/unix.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-io-2.3.4/src/reactor/unix.rs
+
+/home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-io-2.3.4/src/lib.rs:
+/home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-io-2.3.4/src/driver.rs:
+/home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-io-2.3.4/src/reactor.rs:
+/home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-io-2.3.4/src/os.rs:
+/home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-io-2.3.4/src/os/unix.rs:
+/home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-io-2.3.4/src/reactor/unix.rs:

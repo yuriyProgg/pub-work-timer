@@ -1,0 +1,11 @@
+/home/yuri/Рабочий стол/rust/work-timer/target/release/deps/libenumflags2-2ddd9adea9d66336.rmeta: /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/lib.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/formatting.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/fallible.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/iter.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/const_api.rs
+
+/home/yuri/Рабочий стол/rust/work-timer/target/release/deps/libenumflags2-2ddd9adea9d66336.rlib: /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/lib.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/formatting.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/fallible.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/iter.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/const_api.rs
+
+/home/yuri/Рабочий стол/rust/work-timer/target/release/deps/enumflags2-2ddd9adea9d66336.d: /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/lib.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/formatting.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/fallible.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/iter.rs /home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/const_api.rs
+
+/home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/lib.rs:
+/home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/formatting.rs:
+/home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/fallible.rs:
+/home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/iter.rs:
+/home/yuri/.cargo/registry/src/index.crates.io-6f17d22bba15001f/enumflags2-0.7.10/src/const_api.rs:
